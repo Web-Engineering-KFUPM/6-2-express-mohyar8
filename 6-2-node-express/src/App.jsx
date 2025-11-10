@@ -40,7 +40,8 @@ Hints:
 - Import express (already installed).
 - Create the app using const app = express().
 - Define const PORT = 3000.
-
+*/
+/*
 Start the server:
     app.listen(PORT, () => {
       console.log(`Server running on http://localhost:${PORT}`);
